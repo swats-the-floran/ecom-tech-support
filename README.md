@@ -1,3 +1,5 @@
+Parsers and an abstraction layer for many marketplace integrations. Scrtipts get the main data from elasticsearch logs or gtp xml feeds and enrich it with the data from Postgresql database (with ssh tunneling).
+
 DOESN'T WORK WITH PYTHON 3.8 AND LOWER
 no information about python 3.9
 
