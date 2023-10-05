@@ -23,3 +23,12 @@ $ chmod ug+x *py
 
 now you can use scripts like it is shown in documentation  
 https://confluence.puls.ru/pages/viewpage.action?pageId=40738741
+
+arguments list and description getting by -h option
+![image](https://github.com/swats-the-floran/ecom-tech-support/assets/38055017/6d5b4b3d-50a9-4613-ad08-2b4b0b095395)
+
+example of input and output of a script
+![image](https://github.com/swats-the-floran/ecom-tech-support/assets/38055017/72126284-4c5d-44dd-9209-e02760013b03)
+
+result of script usage
+![image](https://github.com/swats-the-floran/ecom-tech-support/assets/38055017/ee8ffd21-c595-4754-be5c-9c704ed7fead)
